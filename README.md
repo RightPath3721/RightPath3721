@@ -30,11 +30,11 @@
 <div>
 
   ## 📊 &nbsp;My activities
-  <a href="https://github.com/RightShiner">
-    <img width=450 height=170 align="center" alt="RightShiner" src="https://github-readme-stats.vercel.app/api?username=RightShiner&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
+  <a href="https://github.com/RightPath3721">
+    <img width=450 height=170 align="center" alt="RightPath3721" src="https://github-readme-stats.vercel.app/api?username=RightPath3721&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
-  <a href="https://github.com/RightShiner">
-    <img align="center" alt="RightShiner" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RightShiner&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
+  <a href="https://github.com/RightPath3721">
+    <img align="center" alt="RightPath3721" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RightPath3721&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
 </div>
 
